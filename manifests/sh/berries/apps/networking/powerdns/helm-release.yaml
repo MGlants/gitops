@@ -48,7 +48,7 @@ spec:
       enabled: true
       image:
         repository: arm64v8/postgres
-        tag: 13.7
+        tag: 14.4
       postgresqlUsername: pdns
       postgresqlDatabase: pdns
       persistence:
