@@ -11,4 +11,4 @@ data:
   # renovate: datasource=github-releases depName=siderolabs/talos sourceUrl=https://github.com/siderolabs/talos
   TALOS_VERSION: v1.1.0
   # renovate: datasource=github-releases depName=kubernetes/kubernetes sourceUrl=https://github.com/kubernetes/kubernetes
-  K8s_VERSION: v1.23.7
+  K8s_VERSION: v1.23.9
