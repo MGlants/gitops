@@ -22,5 +22,5 @@ spec:
       repository: k8s.gcr.io/sig-storage/snapshot-controller
       pullPolicy: IfNotPresent
       # Overrides the image tag whose default is the chart appVersion.
-      tag: v6.2.1
+      tag: v6.3.4
     replicaCount: 1
