@@ -21,7 +21,7 @@ spec:
     image:
       repository: netboxcommunity/netbox
       pullPolicy: IfNotPresent
-      tag: v3.7.8
+      tag: v4.0.6
     timeZone: Europe/Moscow
     existingSecret: &secret netbox-secret
     superuser:
