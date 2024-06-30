@@ -10,9 +10,9 @@ data:
   CP_SH_IP: 172.16.30.100
   SIDERO_IP: 192.168.48.200
   # renovate: datasource=github-releases depName=siderolabs/talos sourceUrl=https://github.com/siderolabs/talos
-  TALOS_VERSION: v1.5.4
+  TALOS_VERSION: v1.7.5
   # renovate: datasource=github-releases depName=siderolabs/talos sourceUrl=https://github.com/siderolabs/talos
-  TALOS_SH_VERSION: v1.5.4
+  TALOS_SH_VERSION: v1.7.5
   # renovate: datasource=github-releases depName=kubernetes/kubernetes sourceUrl=https://github.com/kubernetes/kubernetes
   K8s_VERSION: v1.28.3
   # renovate: datasource=github-releases depName=kubernetes/kubernetes sourceUrl=https://github.com/kubernetes/kubernetes
